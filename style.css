@@ -144,6 +144,10 @@ nav {
   right: 20%;
 }
 
+.fa_custom {
+  color: red;
+}
+
 @keyframes drop {
   0% {
     opacity: 0;
